@@ -12,10 +12,10 @@ This analysis analyzes and summarizes the four neural network models to which wa
 
 ![Original Neural Network](Images/nn_a1.png)
 
-## Alternative neural network 1
+## Alternative neural network 2
 
 ![Original Neural Network](Images/nn_a2.png)
 
-## Alternative neural network 1
+## Alternative neural network 3
 
 ![Original Neural Network](Images/nn_a3.png)
